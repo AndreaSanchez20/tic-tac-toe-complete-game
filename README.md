@@ -3,4 +3,4 @@ This is a tic tac toe 2 player game. Each player will take turns in drawing a O 
 
 **To run this game:**
 - you will need react, javascript and node installed locally
-- **npm serve dev** to run game in local
+- **npm run dev** to run game in local
